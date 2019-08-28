@@ -1,0 +1,1 @@
+An example showing how to test components using [@apollo/react-hooks](https://www.npmjs.com/package/@apollo/react-hooks). More info in the blog article: <https://trojanowski.dev/apollo-hooks-testing-without-act-warnings/>.
